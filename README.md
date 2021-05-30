@@ -8,7 +8,7 @@ estará en el archivo db.py
 3. Importar colección dentro de Postman [Instrucciones](https://learning.getpostman.com/docs/postman/collections/data_formats/#exporting-and-importing-postman-data)
 
 ## Instalar Anaconda 
-La forma más simple de ejecutar el proyecto es instalando [Anaconda](https://www.anaconda.com/distribution/).
+La forma simple de ejecutar el proyecto es instalando [Anaconda](https://www.anaconda.com/distribution/).
 
 Con Anaconda instalado de manera correcta, navegar hasta el directorio del proyecto
 y ejecutar: 
