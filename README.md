@@ -1,6 +1,6 @@
 # Platzi Mongo
 Todo el código que escribiré para el proyecto platzi-mongo
-estará en el archivo db.py
+estará en el archivo db.py.
 
 # Postman
 1. Descargar e instalar [Postman](https://www.getpostman.com/downloads/)
