@@ -3,7 +3,7 @@ Todo el código que escribiré para el proyecto platzi-mongo
 estará en el archivo db.py.
 
 # Postman
-1. Descargar e instalar [Postman](https://www.getpostman.com/downloads/)
+1. Descargar  instalar [Postman](https://www.getpostman.com/downloads/)
 2. La URI de las colecciones de Postman usada para el proyecto está en [Postman-platzi-mongo](https://www.getpostman.com/collections/ffcbfb5c8d5cd2dc52d2)
 3. Importar colección dentro de Postman [Instrucciones](https://learning.getpostman.com/docs/postman/collections/data_formats/#exporting-and-importing-postman-data)
 
